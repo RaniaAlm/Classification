@@ -1,12 +1,12 @@
 # Classification
-** Goal : **
+### Goal : 
 Predict whether the patient has heart disease or not. This is a binary result. We will experiment with different classification models and see which
 one yields the most accuracy.
 
-** Question : **
+### Question : 
 Can a classification model predict whether the patient has heart disease or not ?
 
-** Data Description: **
+### Data Description: 
 The dataset was downloaded from the Kaggle website and consisted of 1026 observations. The predictor Y (Positive or Negative diagnosis of Heart Disease) 
 is determined by 14 features (X):
 
@@ -25,7 +25,7 @@ ca: number of major vessels
 thal: number of defect type
 target: disease, no disease
 
-** Tools : **
+### Tools : 
 - Pandas
 - NumPy
 - Sklearn
