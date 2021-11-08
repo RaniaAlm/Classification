@@ -32,5 +32,8 @@ is determined by 14 features (X):
 - Seaborn
 - matplotlib
 - Tableau
+- Flask
+- Heroku
+- Plotly
 
 
